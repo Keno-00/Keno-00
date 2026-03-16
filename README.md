@@ -10,3 +10,6 @@ I am an Electronics Engineering student from PUP Manila. I love to work on compu
 
 - [**MHRQI**](https://github.com/Keno-00/MHRQI)
 - [**QARQI**](https://github.com/Keno-00/QARQI)
+- [**Deslop**](https://github.com/Keno-00/deslop)
+- [**airtype**](https://github.com/Keno-00/airtype)
+- [**VibeResearch**](https://github.com/Keno-00/VibeResearch)
