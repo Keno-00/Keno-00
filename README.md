@@ -8,8 +8,7 @@ I am an Electronics Engineering student from PUP Manila. I love to work on compu
 
 **My other projects:**
 
-- [**MHRQI**](https://github.com/Keno-00/MHRQI)
-- [**QARQI**](https://github.com/Keno-00/QARQI)
+- [**MHRQI**](https://github.com/Keno-00/MHRQI) (Research)
+- [**QARQI**](https://github.com/Keno-00/QARQI) (Research)
 - [**Deslop**](https://github.com/Keno-00/deslop)
 - [**airtype**](https://github.com/Keno-00/airtype)
-- [**VibeResearch**](https://github.com/Keno-00/VibeResearch)
