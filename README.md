@@ -12,3 +12,6 @@ I am an Electronics Engineering student from PUP Manila. I love to work on compu
 - [**QARQI**](https://github.com/Keno-00/QARQI) (Research)
 - [**Deslop**](https://github.com/Keno-00/deslop)
 - [**airtype**](https://github.com/Keno-00/airtype)
+
+**My Website:**
+- [**kenojose.site**](https://kenojose.site/)
