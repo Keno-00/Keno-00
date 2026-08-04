@@ -4,15 +4,16 @@ I am an Electronics Engineering student from PUP Manila. I love to work on compu
 
 **My favorite project right now:**
 
-- [**open-quantum-computer-vision**](https://github.com/Keno-00/open-quantum-computer-vision) - OpenCV-equivalent for quantum image processing
+- [**aimoto**](https://github.com/Keno-00/AI-Mo-To)
 
 **My other projects:**
 
 - [**MHRQI**](https://github.com/Keno-00/MHRQI) (Research)
 - [**QARQI**](https://github.com/Keno-00/QARQI) (Research)
+- [**open-quantum-computer-vision**](https://github.com/Keno-00/open-quantum-computer-vision)
 
 **My Website:**
 - [**kenojose.site**](https://kenojose.site/)
 
 **My Startup:**
-- [**dado.ph**](https://kenojose.site/](https://github.com/dado-ph)
+- [**dado.ph**](https://dado.ph/]
