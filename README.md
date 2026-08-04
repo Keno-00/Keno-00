@@ -4,7 +4,7 @@ I am an Electronics Engineering student from PUP Manila. I love to work on compu
 
 **My favorite project right now:**
 
-- [**aimoto**](https://github.com/Keno-00/AI-Mo-To)
+- [**aimoto**](https://github.com/dado-ph/AI-Mo-To)
 
 **My other projects:**
 
