@@ -16,4 +16,4 @@ I am an Electronics Engineering student from PUP Manila. I love to work on compu
 - [**kenojose.site**](https://kenojose.site/)
 
 **My Startup:**
-- [**dado.ph**](https://dado.ph/]
+- [**dado.ph**](https://dado.ph/)
